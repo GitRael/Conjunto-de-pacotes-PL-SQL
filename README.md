@@ -1,4 +1,4 @@
-# Projeto: Scripts de Banco de Dados em Oracle
+# Projeto: Packages em PL-SQL
 Este repositório contém scripts para criação de tabelas e pacotes no Oracle, com exemplos de operações utilizando procedures, functions e cursores.
 
 ## Objetivo
